@@ -16,6 +16,6 @@ Things you need..
 
 To use the script..
 
- 1. Download the lua file.`[Youtube.lua](https://github.com/alphatat/VLCyt-dlpDirectStream/blob/main/youtube.lua)`
+ 1. Download the lua file.[Youtube.lua](https://github.com/alphatat/VLCyt-dlpDirectStream/blob/main/youtube.lua)
  2. Copy and replace it to the path `C:\Program Files (x86)\VideoLAN\VLC\lua\playlist`
  3. Ctrl + N to open network streams panel and paste the link there and hit play. it should work..
